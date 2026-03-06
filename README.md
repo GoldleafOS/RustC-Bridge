@@ -1,2 +1,2 @@
-# CppLinux
-Linux but rebuild in cpp
+# RustC
+### A bridge connecting Rust and c
